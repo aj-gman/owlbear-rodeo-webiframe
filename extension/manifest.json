@@ -1,0 +1,16 @@
+{
+  "name": "Cyberpunk Reference",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "author": "aj-gman",
+  "homepage_url": "https://github.com/aj-gman/owlbear-rodeo-webiframe",
+  "icon": "https://aj-gman.github.io/owlbear-rodeo-webiframe/extension/icon.svg",
+  "description": "Quick access to the Cyberpunk reference site within Owlbear Rodeo",
+  "action": {
+    "title": "Cyberpunk Reference",
+    "icon": "https://aj-gman.github.io/owlbear-rodeo-webiframe/extension/icon.svg",
+    "popover": "https://aj-gman.github.io/owlbear-rodeo-webiframe/extension/index.html",
+    "height": 800,
+    "width": 700
+  }
+}
